@@ -1,0 +1,35 @@
+// Ocultar las Columnas Periodo & MAteria de  ClassList App
+{
+  "sections": [
+    {
+      "name": "courseListTable",
+      "exclude": false,
+      "fields": [
+        {
+          "name": "formattedTerm",
+          "exclude": true
+        },
+        {
+          "name": "formattedSubject",
+          "exclude": true
+        }
+      ]
+    }
+  ]
+}
+
+
+// Ocultar Columna ID en Faculty GradeEntry
+{
+  "sections": [
+    {
+      "name": "midtermGradeCourseRosterGrid",
+      "fields": [
+        {
+          "name": "bannerId",
+          "exclude": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+// Cambio nombre de las etiquetas, y ordena los TABs, además oculta column en cada una de las grillas de MidGrade & FinalCourse
+[{
+	"sections": [
+		{"name": "gradebookCourseDetailGrid", "tabLabel": "Grade details", "nextSibling": "midtermCourseDetailGrid"},
+		{"name": "midtermCourseDetailGrid", "tabLabel": "End of year", "nextSibling": "finalCourseDetailGrid",
+			"fields": [
+					{ "name": "gradedStatus", "exclude": true },
+					{ "name": "subject", "exclude": true },
+					{ "name": "courseNumber", "exclude": true },
+					{ "name": "sequenceNumber", "exclude": true },
+					{ "name": "term", "exclude": true }
+				]},
+		{"name": "finalCourseDetailGrid", "tabLabel": "Mid term", "nextSibling": null,
+			"fields": [
+					{ "name": "rolledStatus", "exclude": true },
+					{ "name": "gradedStatus", "exclude": true },
+					{ "name": "subject", "exclude": true },
+					{ "name": "courseNumber", "exclude": true },
+					{ "name": "sequenceNumber", "exclude": true },
+					{ "name": "term", "exclude": true }
+				]}
+				
+	],
+	
+	"layouts":[
+		{
+			"#content":{ 
+				"east":{ "initHidden":true	}
+			}
+		}
+	]
+}]

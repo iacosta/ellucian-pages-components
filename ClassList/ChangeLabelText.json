@@ -1,0 +1,56 @@
+// Cambio de Label en ClassList Application
+{
+  "sections": [
+    {
+      "name": "courseDetailsSection",
+      "exclude": false,
+      "fields": [
+        {
+          "name": "enrollmentHeader",
+          "exclude": false,
+          "attributes": {
+            "label": "Ingresados"
+          }
+        },
+        {
+          "name": "courseDuration",
+          "exclude": false,
+          "attributes": {
+            "title": "Calendario"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+
+// Cambio de etiqueta Nombre Completo en Faculty GradeEntry
+{
+  "sections": [
+    {
+      "name": "finalGradeCourseRosterDetail",
+      "fields": [
+        {
+          "name": "personFullName",
+          "attributes": {
+            "label": "Nombres y Apellidos"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+// Cambio de etiqueta Nombre Completo en Faculty GradeEntry
+{
+  "name": "finalCourseDetailGrid",
+  "fields": [
+    {
+      "name": "caption",
+      "attributes": {
+        "label": "Nuestros Cursos"
+      }
+    }
+  ]
+}

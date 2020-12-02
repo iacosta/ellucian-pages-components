@@ -1,0 +1,16 @@
+// Ocultar un TAB (Lista de Esperoa) dentro del formulario de ClassList App
+
+{
+  "sections": [
+    {
+      "name": "tabsetSection",
+      "exclude": false,
+      "fields": [
+        {
+          "name": "waitListTabButton",
+          "exclude": true
+        }
+      ]
+    }
+  ]
+}

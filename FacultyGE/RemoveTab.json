@@ -1,0 +1,6 @@
+// Elimina el TAB de Calificaciones Parciales de FacultyGradeEntry
+[{
+	"sections": [
+		{"name": "midtermCourseDetailGrid", "exclude": true }
+	]
+}]

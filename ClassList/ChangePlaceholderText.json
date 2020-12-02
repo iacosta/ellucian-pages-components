@@ -1,0 +1,29 @@
+// Cambio de etiqueta Nombre Completo en Faculty GradeEntry
+{
+    "sections": [
+      {
+        "name": "finalCourseDetailGrid",
+        "fields": [
+          {
+            "name": "gradedStatus",
+            "attributes": {
+              "“placeholder”": "Es importante hacer algo"
+            }
+          }
+        ]
+      }
+    ]
+  }
+
+
+  {
+    "name":"finalCourseDetailGrid",
+    "fields":[
+    {
+    "name":"gradedStatus",
+    "attributes":{
+    "placeholder":"Es importante hacer algo"
+    }
+    }
+    ]
+    }

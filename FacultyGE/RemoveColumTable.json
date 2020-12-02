@@ -1,0 +1,11 @@
+// Elimina la columna Periodo de la Grilla de Calificaciones Finales de FacultyGradeEntry
+[{
+	"sections": [
+		{
+			"name": "finalCourseDetailGrid",
+				"fields": [
+					{ "name": "term", "exclude": true }
+				]
+		}
+	]
+}]

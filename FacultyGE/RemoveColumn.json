@@ -1,0 +1,11 @@
+// Elimina la columna NRC de la Grilla de Calificaciones Parciales de FacultyGradeEntry
+[{
+	"sections": [
+		{
+			"name": "midtermCourseDetailGrid",
+				"fields": [
+					{ "name": "courseReferenceNumber", "exclude": true }
+				]
+		}
+	]
+}]

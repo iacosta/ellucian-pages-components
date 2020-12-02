@@ -1,0 +1,12 @@
+//Renobra el Tab de "Calificaciones" por "Detalle de Notas" en FacultyGradeEntry App 
+[{
+	
+	"layouts":[
+		{
+			"#content":{ 
+				"east":{ "initHidden":true	}
+			}
+		}
+	]
+	
+}]

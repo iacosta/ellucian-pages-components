@@ -1,0 +1,8 @@
+// Oculta la Sección (Información del Curso) en ClassList APP
+{
+  "sections": [
+    {
+      "name": "courseDetailsSection",
+      "exclude": true
+    }]
+}

@@ -1,0 +1,8 @@
+//Organiza los TABs de calificaciones en FacultyGradeEntry App 
+[{
+	"sections": [
+		{ "name": "gradebookCourseDetailGrid", "nextSibling": "finalCourseDetailGrid" },
+		{ "name": "finalCourseDetailGrid", "nextSibling": "midtermCourseDetailGrid" },
+		{ "name": "midtermCourseDetailGrid", "nextSibling": null }
+	]
+}]

@@ -1,0 +1,11 @@
+// Cambio el orden de los Tabs "Lista de Clase" & "lista de Espera"
+{
+      "name": "tabsetSection",
+      "exclude": false,
+      "fields": [
+        {
+          "name": "waitListTabButton",
+          "nextSibling": "classListTabButton"
+        }
+      ]
+}

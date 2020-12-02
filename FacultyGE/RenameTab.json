@@ -1,0 +1,6 @@
+//Renobra el Tab de "Calificaciones" por "Detalle de Notas" en FacultyGradeEntry App 
+[{
+	"sections": [
+		{"name": "gradebookCourseDetailGrid", "tabLabel": "Detalle de Notas"}
+	]
+}]
