@@ -55,13 +55,13 @@ Lo primero que debemos hacer es habilitar la opción de *extensibilidad* para la
     <img src="Images/habilitar_editor.png" alt="Logo" width="800" height="300">
 </p>
 
-Una vez realizado el paso anterior, podemos hacer uso del editor para agregar el segmento de código en formato JSON. De esta manera podemos manipular los elementos graficos en pnatalla 
+Una vez realizado el paso anterior, podemos hacer uso del editor para agregar el segmento de código en formato JSON. De esta manera podemos manipular los elementos gráficos en pnatalla 
 
 <p align="center">
     <img src="Images/editor.png" alt="Logo" width="800" height="300">
 </p>
 
-Allí podemos agregar el siguiente bloque de código. Con esto se esta ocultando la columna de Periodo Académico
+Allí podemos agregar el siguiente bloque de código. Con esto se esta ocultando la columna de Período Académico
 
 ```json
 [{
@@ -75,13 +75,16 @@ Allí podemos agregar el siguiente bloque de código. Con esto se esta ocultando
 	]
 }]
 ```
-
 Se guardan los cambios, y finalmente se actualiza (refresh - con F5) en el navegador para visualizar los cambios. Es así de simple hacer cambios en la capa de presentación de aplicaciones del SelfService para Banner.
 
 <p align="center">
     <img src="Images/hide_column.png" alt="Logo" width="800" height="300">
 </p>
 
+Finalmente, aquí puedes acceder a algunos ejemplos para las aplicaciones de:
+
+Lista de Clase: [ClassList](https://github.com/iacosta/ellucian-pages-components/tree/master/ClassList)
+Ingreso de Notas: [FacultGE](https://github.com/iacosta/ellucian-pages-components/tree/master/FacultyGE)
 
 ___
 # Licencia
