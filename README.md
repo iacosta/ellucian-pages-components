@@ -10,7 +10,7 @@
 <br />
 <p align="center">
   <a href="https://www.ellucian.com/es">
-    <img src="images/logo.png" alt="Logo" width="110" height="110">
+    <img src="![alt text](https://github.com/iacosta/ellucian-pages-components/raw/master/images/logo.png?raw=true)" alt="Logo" width="110" height="110">
   </a>
   <h1 align="center">Extensibilidad - Configuration Pages Components</h1>
 </p>
