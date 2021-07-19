@@ -10,7 +10,7 @@
 <br />
 <p align="center">
   <a href="https://www.ellucian.com/es">
-    <img src="Images/logo.png" alt="Logo" width="110" height="110">
+    <img src="images/logo.png" alt="Logo" width="110" height="110">
   </a>
   <h1 align="center">Extensibilidad - Configuration Pages Components</h1>
 </p>
@@ -35,7 +35,7 @@ Muy rápidamente, recordemos el propósito de Extensibilidad para Banner 9. Esta
 - Configuration Pages Compomnents (CPC), es una poderosa utilidad que permite ocultar, editar y cambiar el order de campos, secciones y layouts en la capa de presentación sin necesidad de modificar el código fuentes de la aplicación. Los principales cambios se puede  se puede aplicar a los principales campos, miremos:
 
 <p align="center">
-    <img src="Images/opciones.png" alt="Logo" width="800" height="300">
+    <img src="images/opciones.png" alt="Logo" width="800" height="300">
 </p>
 
 - Configuration Pages Compomnents (CPC), es una herramienta que está diseñada para ser utilizada por un rol técnico (desarrollador) ya que necesita tener conocimientos medios o profundos de HTML y el formato JSON. 
@@ -52,13 +52,13 @@ ___
 Lo primero que debemos hacer es habilitar la opción de *extensibilidad* para las aplicaciones del SelfServices que vamos a modificar. Mriremos aquí un ScreenShot 
 
 <p align="center">
-    <img src="Images/habilitar_editor.png" alt="Logo" width="800" height="300">
+    <img src="images/habilitar_editor.png" alt="Logo" width="800" height="300">
 </p>
 
 Una vez realizado el paso anterior, podemos hacer uso del editor para agregar el segmento de código en formato JSON. De esta manera podemos manipular los elementos gráficos en pnatalla 
 
 <p align="center">
-    <img src="Images/editor.png" alt="Logo" width="800" height="300">
+    <img src="images/editor.png" alt="Logo" width="800" height="300">
 </p>
 
 Allí podemos agregar el siguiente bloque de código. Con esto se esta ocultando la columna de Período Académico
@@ -78,7 +78,7 @@ Allí podemos agregar el siguiente bloque de código. Con esto se esta ocultando
 Se guardan los cambios, y finalmente se actualiza (refresh - con F5) en el navegador para visualizar los cambios. Es así de simple hacer cambios en la capa de presentación de aplicaciones del SelfService para Banner.
 
 <p align="center">
-    <img src="Images/hide_column.png" alt="Logo" width="800" height="300">
+    <img src="images/hide_column.png" alt="Logo" width="800" height="300">
 </p>
 
 Finalmente, aquí puedes acceder a algunos ejemplos para las aplicaciones de:
