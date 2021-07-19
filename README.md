@@ -34,12 +34,14 @@ Muy rápidamente, recordemos el propósito de Extensibilidad para Banner 9. Esta
 
 - Configuration Pages Compomnents (CPC), es una poderosa utilidad que permite ocultar, editar y cambiar el order de campos, secciones y layouts en la capa de presentación sin necesidad de modificar el código fuentes de la aplicación. Los principales cambios se puede  se puede aplicar a los principales campos, miremos:
 
-![](images/opciones.png)
+<img src="images/opciones.png">
 
+<!-- 
 <p align="center">
     <img src="https://raw.githubusercontent.com/iacosta/ellucian-pages-components/master/images/opciones.png?raw=true" alt="opciones" width="800" height="300">
 </p>
- 
+-->
+
 - Configuration Pages Compomnents (CPC), es una herramienta que está diseñada para ser utilizada por un rol técnico (desarrollador) ya que necesita tener conocimientos medios o profundos de HTML y el formato JSON. 
 
 - Los cambios realizados con la herramienta (CPC) para páginas de SelfService de Banner, se almacenan en archivos JSON específicos para cada página en una ubicación predefinida y con un nombre predefinido. Todo esto se habilita por medio de la configuración de la solución.
